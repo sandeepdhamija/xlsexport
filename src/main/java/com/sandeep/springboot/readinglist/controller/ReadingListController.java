@@ -37,6 +37,7 @@ public class ReadingListController {
     	 resource=XLSWriter.writeObjectToXLS(null, col);
     	 // c= new ByteArrayResource(resource.toByteArray());
 	} catch (Throwable e) {
+
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	}
